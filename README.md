@@ -1,2 +1,2 @@
 # Animation script standard
-剧本标准
+动画剧本标准
